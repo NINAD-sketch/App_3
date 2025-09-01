@@ -18,5 +18,5 @@ Example twist ideas implemented in this app:
 - 🔠 **Font Size Grower** → Dynamically increases/decreases text size.
 
 ## 📱 Screenshots
-Screenshot.png
+![App Screenshot](Screenshot.png)
 
