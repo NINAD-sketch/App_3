@@ -15,4 +15,8 @@ Example twist ideas implemented in this app:
 - 🎨 **Color Change Counter** → Each tap changes the background color randomly.  
 - 😀 **Emoji Mood Counter** → Displays different emojis based on the counter value.  
 - 🔲 **Shape Switcher** → Changes the shape of a container on each button press.  
-- 🔠 **Font Size Grower** → Dynamically increases/decreases text size.  
+- 🔠 **Font Size Grower** → Dynamically increases/decreases text size.
+
+## 📱 Screenshots
+Screenshot.png
+
